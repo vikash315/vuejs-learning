@@ -28,3 +28,16 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+Important link
+
+https://www.tutorialspoint.com/vuejs/vuejs_environment_setup.htm
+
+
+https://github.com/liferay/liferay-blade-samples/tree/7.0/gradle/apps/npm/vuejs-npm-portlet - Good
+
+https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html - Good
+
+https://github.com/mbezhanov/vuejs-rest-client-example
+
+https://alligator.io/vuejs/rest-api-axios/ - Good
